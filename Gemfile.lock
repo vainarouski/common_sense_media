@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.5.9)
+    nokogiri (1.5.9-java)
+    nokogiri (1.5.9-x86-mingw32)
+    trollop (2.0)
+
+PLATFORMS
+  java
+  ruby
+  x86-mingw32
+
+DEPENDENCIES
+  bundler
+  nokogiri
+  trollop
